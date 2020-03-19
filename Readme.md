@@ -1,6 +1,5 @@
 # spyrales : Soutien en Python et R entre agents de l'État
 
-
 ## Manifeste
 
 * Nous sommes agents publics, titulaires et non titulaires, travaillant dans le domaine de la statistique ou de la datascience, en central ou en déconcentré.

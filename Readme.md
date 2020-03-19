@@ -1,5 +1,4 @@
-# CoPyRE : vers une communauté de data-codeurs de l'Etat autour des langages R et Python
-
+# spyrales : Soutien en Python et R entre agents de l'État
 
 ## Manifeste
 
